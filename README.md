@@ -1,0 +1,10 @@
+# Plant-Disease-Detection-and-Crop-Recommendation-System
+![Screenshot 2023-05-03 005616](https://user-images.githubusercontent.com/104718068/235767508-86c11409-06be-4482-9c0d-86a2837f78a4.png)
+![Screenshot 2023-05-03 005624](https://user-images.githubusercontent.com/104718068/235767519-792864f5-774b-4b89-bcd2-e147617006d0.png)
+![Screenshot 2023-05-03 005634](https://user-images.githubusercontent.com/104718068/235767529-ab783b9e-81d3-4b30-a318-c899a76fb8e2.png)
+![Screenshot 2023-05-03 005650](https://user-images.githubusercontent.com/104718068/235767538-aa9e9b7e-002a-49f1-81a1-d02ffbce63cd.png)
+![Screenshot 2023-05-03 005716](https://user-images.githubusercontent.com/104718068/235767548-8803404a-4826-422e-9523-2e7453fc3c7e.png)
+![Scree![Screenshot 2023-05-03 010207](https://user-images.githubusercontent.com/104718068/235767564-07747a4b-41ec-4e42-82e8-13de07b77da6.png)
+nshot 2023-05-03 010158](https://user-images.githubusercontent.com/104718068/235767558-2bebd201-8773-499a-acd3-faaf6d82f8af.png)
+![Screenshot 2023-05-03 010244](https://user-images.githubusercontent.com/104718068/235767577-95362101-2e9a-4eee-9ce8-ccbb5e283fec.png)
+![Screenshot 2023-05-03 010252](https://user-images.githubusercontent.com/104718068/235767591-049e02e3-5ed1-4e7f-80dd-c0bbbd1b49d1.png)
